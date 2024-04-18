@@ -21,11 +21,11 @@
     <h1><strong>Games Details</strong></h1>
     <table>
         <thead>
-            <tr><th><b>Index</b></th><th><b>Title</b></th><th><b>Release Date</b></th><th><b>Developers</b></th><th><b>Platform</b></th><th><b>Genres</b></th></tr>
+            <tr><th><b>Index</b></th><th><b>Title</b></th><th><b>Release Date</b></th><th><b>Developers</b></th><th><b>Platform</b></th><th><b>Genres</b></th><th><b>Rating</b></th></tr>
         </thead>
         <tbody>
             {% for g in Game[:100] %}
-            <tr><td>{{ g[0] }}</td><td>{{ g[1] }}</td><td>{{ g[2] }}</td><td>{{ g[3] }}</td><td>{{ g[5] }}</td><td>{{ g[6] }}</td></tr>
+            <tr><td>{{ g[0] }}</td><td>{{ g[1] }}</td><td>{{ g[2] }}</td><td>{{ g[3] }}</td><td>{{ g[5] }}</td><td>{{ g[6] }}</td><td> {{ g [7] }}</td></tr>
             {% endfor %}
         </tbody>
     </table>
