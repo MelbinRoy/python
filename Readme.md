@@ -7,7 +7,7 @@ This project is a website built with Flask. It's all about games, providing deta
 #Code Description
 
 
-This project has a main folder "python" with a subfolder called "template" where all the HTML files for the website are stored. Inside, there's an About page explaining the website and information about database variables. Another page called Data displays all the information from the dataset. This setup keeps things organized, making it easy for users to explore and understand the website.
+This project has a main folder "DAB111_project_Group_7" with a subfolder called "template" where all the HTML files for the website are stored. Inside, there's an About page explaining the website and information about database variables. Another page called Data displays all the information from the dataset. This setup keeps things organized, making it easy for users to explore and understand the website.
 
 
 #Popular Video Games (Dataset)
