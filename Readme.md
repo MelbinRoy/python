@@ -17,5 +17,6 @@ The dataset includes details about popular games like when they were released, w
 #Installation
 
 1)Clone the Respository : "https://www.kaggle.com/datasets/matheusfonsecachaves/popular-video-games".
-2)Type pip install -r requirements.txt in terminal (it automaticaly install all necessary packages).
-3)Run app_template_detail_2.py That will generate the website link.
+2)Create an environment
+3)Type pip install -r requirements.txt in terminal (it automaticaly install all necessary packages).
+4)Run app_template_detail_2.py That will generate the website link.
